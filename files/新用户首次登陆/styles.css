@@ -1604,3 +1604,22 @@
   width:86px;
   word-wrap:break-word;
 }
+#u315 {
+  position:absolute;
+  left:400px;
+  top:368px;
+  width:230px;
+  height:18px;
+}
+#u316 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:212px;
+  word-wrap:break-word;
+}
+#u315_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
